@@ -1,0 +1,6 @@
+# Her legger du inn navn på python packages du installerer via pip (Python install packages)
+# https://learnpython.com/blog/python-requirements-file/
+
+# En modul per linje, f.eks (uten #):
+# pendulum
+# tkinter
